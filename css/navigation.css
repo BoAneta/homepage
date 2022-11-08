@@ -1,0 +1,24 @@
+.navigation {
+  list-style: none;
+  text-align: right;
+}
+
+.navigation__list {
+  display: inline;
+  padding: 10px;
+}
+
+.navigation__link {
+  text-decoration: none;
+  color: #3f791be5;
+}
+
+.navigation__link:hover {
+  color: #5fb529e5;
+  border-bottom: 1px solid;
+  outline: none;
+}
+
+.navigation__link:active {
+  color: #ffaa00;
+}

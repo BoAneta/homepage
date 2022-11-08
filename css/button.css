@@ -1,0 +1,12 @@
+.themeButton {
+    max-width: 20%;
+    min-width: fit-content;
+    background-color: #85ff398e;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .themeButton:hover {
+    background-color: #ffaa00c1;
+  }

@@ -1,0 +1,61 @@
+.section__header {
+  background-color: #85ff39e5;
+  text-align: center;
+}
+
+.section__text {
+  border: 3px solid #85ff39e5;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.section__header--darker {
+  background-color: #76dc36e5;
+  text-align: center;
+}
+
+.section__article--prosCons {
+  border: 2px solid #76dc36e5;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.section__list {
+  padding-left: 20px;
+}
+
+.section__list--plusList {
+  list-style-type: "✅";
+  margin-bottom: 2%;
+}
+
+.section__list--minusList {
+  list-style-type: "❌";
+}
+
+.section__header--dark {
+  background-color: #5fb529e5;
+  text-align: center;
+}
+
+.section__article {
+  border: 2px solid #5fb529e5;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.section__instagramLink {
+  text-decoration: none;
+  color: #5fb529e5;
+}
+
+.section__instagramLink:hover {
+  color: #5fb529e5;
+  font-weight: bold;
+}
+
+.section__instagramLink:active {
+  color: #ffaa00;
+}

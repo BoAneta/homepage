@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  padding: 20px;
+}
+
+.header__title {
+  color: #529627e8;
+  text-shadow: 1px 3px 7px #66ac3be5;
+}
+
+.header__subTitle {
+  font-weight: normal;
+}
