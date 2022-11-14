@@ -1,7 +1,7 @@
 # ANETA BOROWSKI HOMEPAGE
-This is my first website made as a first project at FronetEnd Dev course with YouCode.
+This is my personal website made as a first project at FronetEnd Dev course with YouCode.
 Here you can find a little info about me.
-![Homepage screenshot](images/homepagescreenshot.png)
+![Homepage screenshot](images/mypage-gif.gif)
 ## Demo website link
 https://boaneta.github.io/homepage/
 
@@ -9,5 +9,4 @@ https://boaneta.github.io/homepage/
 - HTML
 - CSS
 - JavaScript
-
 - BEM
