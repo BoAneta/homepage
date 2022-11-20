@@ -5,7 +5,7 @@
 
   const toggleBackground = () => {
     const body = document.querySelector(".body");
-    const themeButton = document.querySelector(".js-themeButton");
+    const themeButton = document.querySelector(".js-buttonText");
 
     body.classList.toggle("dark");
     themeButton.innerText = body.classList.contains("dark")
